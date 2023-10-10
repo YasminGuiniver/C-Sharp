@@ -1,0 +1,14 @@
+C:\Codigos-C#\Formatacao\bin\Debug\net6.0\Formatacao.exe
+C:\Codigos-C#\Formatacao\bin\Debug\net6.0\Formatacao.deps.json
+C:\Codigos-C#\Formatacao\bin\Debug\net6.0\Formatacao.runtimeconfig.json
+C:\Codigos-C#\Formatacao\bin\Debug\net6.0\Formatacao.dll
+C:\Codigos-C#\Formatacao\bin\Debug\net6.0\Formatacao.pdb
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.AssemblyInfoInputs.cache
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.AssemblyInfo.cs
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.csproj.CoreCompileInputs.cache
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.dll
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\refint\Formatacao.dll
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.pdb
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\Formatacao.genruntimeconfig.cache
+C:\Codigos-C#\Formatacao\obj\Debug\net6.0\ref\Formatacao.dll
