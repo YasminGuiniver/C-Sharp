@@ -1,0 +1,14 @@
+C:\Codigos-C#\lacosRepeticao\bin\Debug\net6.0\lacosRepeticao.exe
+C:\Codigos-C#\lacosRepeticao\bin\Debug\net6.0\lacosRepeticao.deps.json
+C:\Codigos-C#\lacosRepeticao\bin\Debug\net6.0\lacosRepeticao.runtimeconfig.json
+C:\Codigos-C#\lacosRepeticao\bin\Debug\net6.0\lacosRepeticao.dll
+C:\Codigos-C#\lacosRepeticao\bin\Debug\net6.0\lacosRepeticao.pdb
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.AssemblyInfoInputs.cache
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.AssemblyInfo.cs
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.csproj.CoreCompileInputs.cache
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.dll
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\refint\lacosRepeticao.dll
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.pdb
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\lacosRepeticao.genruntimeconfig.cache
+C:\Codigos-C#\lacosRepeticao\obj\Debug\net6.0\ref\lacosRepeticao.dll
