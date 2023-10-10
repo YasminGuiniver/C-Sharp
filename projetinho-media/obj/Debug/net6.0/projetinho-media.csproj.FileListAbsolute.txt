@@ -1,0 +1,14 @@
+C:\Codigos-C#\projetinho-media\bin\Debug\net6.0\projetinho-media.exe
+C:\Codigos-C#\projetinho-media\bin\Debug\net6.0\projetinho-media.deps.json
+C:\Codigos-C#\projetinho-media\bin\Debug\net6.0\projetinho-media.runtimeconfig.json
+C:\Codigos-C#\projetinho-media\bin\Debug\net6.0\projetinho-media.dll
+C:\Codigos-C#\projetinho-media\bin\Debug\net6.0\projetinho-media.pdb
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.AssemblyInfoInputs.cache
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.AssemblyInfo.cs
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.csproj.CoreCompileInputs.cache
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.dll
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\refint\projetinho-media.dll
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.pdb
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\projetinho-media.genruntimeconfig.cache
+C:\Codigos-C#\projetinho-media\obj\Debug\net6.0\ref\projetinho-media.dll
