@@ -1,0 +1,14 @@
+C:\Codigos-C#\projetinho=-calculadora\bin\Debug\net6.0\projetinho=-calculadora.exe
+C:\Codigos-C#\projetinho=-calculadora\bin\Debug\net6.0\projetinho=-calculadora.deps.json
+C:\Codigos-C#\projetinho=-calculadora\bin\Debug\net6.0\projetinho=-calculadora.runtimeconfig.json
+C:\Codigos-C#\projetinho=-calculadora\bin\Debug\net6.0\projetinho=-calculadora.dll
+C:\Codigos-C#\projetinho=-calculadora\bin\Debug\net6.0\projetinho=-calculadora.pdb
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.AssemblyInfoInputs.cache
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.AssemblyInfo.cs
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.csproj.CoreCompileInputs.cache
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.dll
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\refint\projetinho=-calculadora.dll
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.pdb
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\projetinho=-calculadora.genruntimeconfig.cache
+C:\Codigos-C#\projetinho=-calculadora\obj\Debug\net6.0\ref\projetinho=-calculadora.dll
